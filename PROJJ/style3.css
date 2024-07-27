@@ -1,0 +1,32 @@
+.header1 a{
+    text-decoration: none;
+    color: black;
+    font-size:medium;
+    font-weight: 500;
+}
+.hf{
+    font-size:medium;
+}
+.c1{
+    width: 400px;
+}
+h1{
+  font: size 1.5em;;
+  font-weight: bold;
+}
+p{
+    font-size: 1rem;
+    font-weight: 100;
+}
+.grica{
+    width: 210px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-size: small;
+}
+.cpyr{
+    font-size:medium;
+}
